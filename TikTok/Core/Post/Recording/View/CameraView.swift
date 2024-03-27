@@ -249,6 +249,7 @@ struct ConfirmationView: View {
           Button("Cancel") {
             isPresented = false
           }
+          .foregroundStyle(.black)
           .padding()
           
           Spacer()
