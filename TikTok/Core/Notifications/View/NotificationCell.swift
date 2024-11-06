@@ -2,7 +2,7 @@
 //  NotificationCell.swift
 //  TikTok
 //
-//  Created by Parikshit Nikam on 05/03/24.
+//  Created by Macbook  on 05/03/24.
 //
 
 import SwiftUI

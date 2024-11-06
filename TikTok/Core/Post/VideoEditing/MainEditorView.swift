@@ -2,7 +2,7 @@
 //  MainEditorView.swift
 //  TikTok
 //
-//  Created by Parikshit Nikam on 13/03/24.
+//  Created by Macbook  on 13/03/24.
 //
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  CommentViewModel.swift
 //  TikTok
 //
-//  Created by Parikshit Nikam on 07/03/24.
+//  Created by Macbook  on 07/03/24.
 //
 
 import SwiftUI
